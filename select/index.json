@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ホレタハレタ",
+  "base_artist": "礼賛",
+  "createdAt": "2026-03-02T14:06:03.997548Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ホレタハレタ",
+      "artist": "礼賛",
+      "has_synced": false,
+      "path": "select/pl_01_ホレタハレタ_礼賛.txt"
+    }
+  ]
+}
